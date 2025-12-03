@@ -1,0 +1,12 @@
+{
+    "pvp": {
+        "x_wins": 0,
+        "o_wins": 0,
+        "draws": 0
+    },
+    "ai": {
+        "player_wins": 0,
+        "ai_wins": 0,
+        "draws": 0
+    }
+}
